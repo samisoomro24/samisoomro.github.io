@@ -1,0 +1,37 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f9;
+  padding: 40px;
+}
+
+.tools-section {
+  max-width: 600px;
+  margin: auto;
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
+}
+
+.tools-section h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.tool-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.tool-item img {
+  width: 32px;
+  height: 32px;
+  margin-right: 15px;
+}
+
+.tool-item span {
+  font-size: 18px;
+  color: #333;
+}
